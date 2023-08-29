@@ -1,1 +1,2 @@
-
+thêm file .env - ghi bên trong file: PORT=8080
+npm install --save-exact express@4.18.1
